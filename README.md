@@ -2,7 +2,7 @@
 
 **Role Simulated**: Product Operation Specialist – Data Acquisition  
 **Company Simulated**: TikTok Malaysia  
-**Experience Level**: 1–3 years (Early Career, Data & Ops Focused)
+**Experience Level**: 1–3 years (Data & Ops Focused)
 
 ---
 
